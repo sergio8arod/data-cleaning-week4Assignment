@@ -6,7 +6,7 @@ Here you can find the information about the variables of the data set generated 
 ## Features / variables
 
 1	activityLabel: Descriptive activity
-2	tBodyAcc.mean-X: 
+2	tBodyAcc.mean-X
 3	tBodyAcc.mean-Y
 4	tBodyAcc.mean-Z
 5	tBodyAcc.std-X
