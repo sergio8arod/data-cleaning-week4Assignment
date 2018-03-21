@@ -1,9 +1,9 @@
-#Code book
+# Code book
 
 Here you can find the information about the variables of the data set generated with the R script on this repository.
 
 
-##Features / variables
+## Features / variables
 
 1	activityLabel: Descriptive activity
 2	tBodyAcc.mean-X: 
@@ -94,7 +94,7 @@ Here you can find the information about the variables of the data set generated 
 87	angle.gravityMean-Z
 
 
-###Detailed information found on the features_info.txt file
+### Detailed information found on the features_info.txt file
 Feature Selection 
 =================
 
